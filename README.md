@@ -1,0 +1,4 @@
+mystac
+======
+
+stac new
